@@ -34,15 +34,15 @@ body {
     position: absolute;
     margin-left: 8px;
 }
-.piano .white:hover {
+.piano .white.active {
     width: 48px;
     height: 130px;
 }
-.piano .black1:hover {
+.piano .black1.active {
     width: 35px;
     height: 65px;
 }
-.piano .black2:hover {
+.piano .black2.active {
     width: 35px;
     height: 65px;
 }
